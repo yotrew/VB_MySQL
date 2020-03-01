@@ -1,0 +1,14 @@
+E:\Projects\VS\VB\VB_MySql\VB_MySql\bin\Debug\VB_MySql.exe.config
+E:\Projects\VS\VB\VB_MySql\VB_MySql\bin\Debug\VB_MySql.exe
+E:\Projects\VS\VB\VB_MySql\VB_MySql\bin\Debug\VB_MySql.pdb
+E:\Projects\VS\VB\VB_MySql\VB_MySql\bin\Debug\VB_MySql.xml
+E:\Projects\VS\VB\VB_MySql\VB_MySql\bin\Debug\MySql.Data.dll
+E:\Projects\VS\VB\VB_MySql\VB_MySql\bin\Debug\BouncyCastle.Crypto.dll
+E:\Projects\VS\VB\VB_MySql\VB_MySql\bin\Debug\Renci.SshNet.dll
+E:\Projects\VS\VB\VB_MySql\VB_MySql\obj\Debug\VB_MySql.vbprojResolveAssemblyReference.cache
+E:\Projects\VS\VB\VB_MySql\VB_MySql\obj\Debug\VB_MySql.Form1.resources
+E:\Projects\VS\VB\VB_MySql\VB_MySql\obj\Debug\VB_MySql.Resources.resources
+E:\Projects\VS\VB\VB_MySql\VB_MySql\obj\Debug\VB_MySql.vbproj.GenerateResource.Cache
+E:\Projects\VS\VB\VB_MySql\VB_MySql\obj\Debug\VB_MySql.exe
+E:\Projects\VS\VB\VB_MySql\VB_MySql\obj\Debug\VB_MySql.xml
+E:\Projects\VS\VB\VB_MySql\VB_MySql\obj\Debug\VB_MySql.pdb
