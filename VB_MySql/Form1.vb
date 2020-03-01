@@ -1,5 +1,6 @@
 ﻿Imports MySql.Data.MySqlClient
-
+'Author:Yotrew Wing
+'20200301
 Public Class Form1
     Private Sub btn_get_data_Click(sender As Object, e As EventArgs) Handles btn_get_data.Click
         'Ref:http://blog.davidou.org/archives/922
@@ -7,7 +8,8 @@ Public Class Form1
         Dim server As String = tb_server.Text
         Dim user As String = tb_user.Text
         Dim passwd As String = tb_pw.Text
-        Dim conn_str = "Database=cmdev;Data Source=" & server & ";User Id=" & user & ";Password=" & passwd & ";CharSet=utf8"
+        Dim db As String = "cmdev"
+        Dim conn_str = "Database=" & db & ";Data Source=" & server & ";User Id=" & user & ";Password=" & passwd & ";CharSet=utf8"
         If dbconn.State = ConnectionState.Open Then '連線中...
             dbconn.Close() '斷線
         End If

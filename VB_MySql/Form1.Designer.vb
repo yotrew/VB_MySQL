@@ -69,7 +69,6 @@ Partial Class Form1
         Me.tb_user.Name = "tb_user"
         Me.tb_user.Size = New System.Drawing.Size(124, 22)
         Me.tb_user.TabIndex = 4
-        Me.tb_user.Text = "076213"
         '
         'tb_server
         '
@@ -77,7 +76,6 @@ Partial Class Form1
         Me.tb_server.Name = "tb_server"
         Me.tb_server.Size = New System.Drawing.Size(177, 22)
         Me.tb_server.TabIndex = 6
-        Me.tb_server.Text = "linux.yotrew.tw"
         '
         'lbl_server
         '
